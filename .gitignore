@@ -1,0 +1,17 @@
+# ignore any files in the directory named mystaticfiles
+my_tennis_club/mystaticfiles/
+
+# ignore env/
+env/
+
+# ignore dqlite3 database
+my_tennis_club/db.sqlite3
+
+# ignore credentials
+credentials.txt
+
+# ignore workspace
+workspace.code-workspace
+
+# ignore zip files
+my_tennis_club/my_tennis_club.zip
